@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div className="bg-black text-white min-h-screen flex flex-col items-center justify-between px-8 py-16">
+    <div className="bg-black text-white min-h-screen flex flex-col items-center justify-between">
       {/* Header */}
-      <header className="bg-purple-600 w-full text-center text-3xl font-bold text-black py-4">
+      <header className="bg-purple-600 w-full text-center text-3xl font-bold text-black py-2">
         RESUME
       </header>
 
@@ -16,7 +16,10 @@ export default function Home() {
               Yodsapad Soontarawong
             </h2>
             <p className="text-sm">
-
+              Hello! I am Yodsapad Soontarawong, passionate about learning new things and embracing challenges at work.
+              I enjoy developing myself and expanding my skills, especially with new technologies and modern work practices.
+              I believe that taking on new roles helps me grow professionally and provides valuable opportunities 
+              to learn from real experiences, allowing me to create meaningful work.
             </p>
           </div>
         </section>
@@ -39,7 +42,7 @@ export default function Home() {
               Projects
             </h3>
             <p className="text-sm">
-              <strong className="text-purple-600">UP TALK</strong>: Designed UI for the UP Talk website. This
+              <h3 className="text-xl font-medium text-purple-600">UP TALK:</h3> Designed UI for the UP Talk website. This
               project focused on designing an intuitive user interface for a web
               platform that helps professionals communicate better.{" "}
               <a
