@@ -17,7 +17,7 @@ export default function Home() {
             </h2>
             <p className="text-sm">
               Hello! I am Yodsapad Soontarawong, passionate about learning new things and embracing challenges at work.
-              I enjoy developing myself and expanding my skills
+              I enjoy developing myself and expanding my skills, especially with new technologies and modern work practices.
             </p>
           </div>
         </section>
