@@ -42,7 +42,7 @@ export default function Home() {
               Projects
             </h3>
             <p className="text-sm">
-              <strong className="text-purple-600">UP TALK</strong>: Designed UI for the UP Talk website. This
+              <h3 className="text-xl font-medium text-purple-600">UP TALK:</h3> Designed UI for the UP Talk website. This
               project focused on designing an intuitive user interface for a web
               platform that helps professionals communicate better.{" "}
               <a
